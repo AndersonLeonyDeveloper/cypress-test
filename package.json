@@ -1,0 +1,23 @@
+{
+  "name": "cypress-test",
+  "version": "1.0.0",
+  "description": "Cypress test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cy-open":"cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndersonLeonyDeveloper/cypress-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndersonLeonyDeveloper/cypress-test/issues"
+  },
+  "homepage": "https://github.com/AndersonLeonyDeveloper/cypress-test#readme",
+  "devDependencies": {
+    "cypress": "^5.4.0"
+  }
+}
